@@ -1,0 +1,2 @@
+# gtiessensial
+for learning git
