@@ -1,2 +1,2 @@
-# gtiessensial
-for learning git
+# giressencial
+learning git
