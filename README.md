@@ -1,2 +1,2 @@
-# giressencial
+# gitessencial
 learning git
